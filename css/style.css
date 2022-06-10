@@ -1,4 +1,9 @@
 .fotoPortada {
-    width: 100%;
-    opacity: 0.8;
+  width: 100%;
+  opacity: 0.8;
+}
+
+.formContact {
+  width: 50%;
+  margin: 100px auto;
 }
