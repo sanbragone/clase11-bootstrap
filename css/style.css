@@ -4,6 +4,30 @@
 }
 
 .formContact {
-  width: 50%;
+  width: 30%;
+  margin: 200px auto;
+}
+
+.map {
+  width: 800px;
   margin: 100px auto;
+}
+
+.accordionTrabajos {
+    width: 50%;
+    margin: 150px auto;
+}
+
+.cardRow {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+.card-text {
+    font-weight: bold;
+}
+
+.card {
+    margin: 50px;
 }
