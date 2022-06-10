@@ -8,14 +8,24 @@
   margin: 200px auto;
 }
 
-.map {
+.ubicacionMapFormat {
   width: 800px;
-  margin: 100px auto;
+  margin: 350px auto;
+}
+
+.ubicacionFondo {
+    background-image: url("../img/fondoUbicacion.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondoGenerico {
+    background-color: rgba(223, 223, 223, 0.336);
 }
 
 .accordionTrabajos {
-    width: 50%;
-    margin: 150px auto;
+    width: 40%;
+    margin: 250px auto 250px;
 }
 
 .cardRow {
