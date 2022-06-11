@@ -4,7 +4,7 @@
 }
 
 .formContact {
-  width: 30%;
+  width: 50%;
   margin: 200px auto;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .accordionTrabajos {
-    width: 40%;
+    width: 60%;
     margin: 250px auto 250px;
 }
 
@@ -40,4 +40,8 @@
 
 .card {
     margin: 50px;
+}
+
+.estiloParrafo {
+  font-weight: bold;
 }
