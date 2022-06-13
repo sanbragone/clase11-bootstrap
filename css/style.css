@@ -50,6 +50,22 @@
   position: absolute;
 }
 
+.figure-img {
+  border-radius: 50%;
+}
+
+.figure-caption {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.container-lg {
+  display: flex;
+  align-items: center;
+  margin: 100px auto;
+}
+
 @media screen and (max-width: 1024px) {
   .cardRow {
     flex-direction: column;
