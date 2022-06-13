@@ -8,12 +8,6 @@
   margin: 200px auto;
 }
 
-.ubicacionFondo {
-  background-image: url("../img/fondoUbicacion.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .fondoGenerico {
   background-color: rgba(223, 223, 223, 0.336);
 }
