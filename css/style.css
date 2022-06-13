@@ -86,4 +86,9 @@ main > div > .container-lg {
   .container-lg {
     flex-direction: column;
   }
+
+  main > div > .container-lg {
+    max-width: fit-content;
+    margin: 0 30px;
+  }
 }
